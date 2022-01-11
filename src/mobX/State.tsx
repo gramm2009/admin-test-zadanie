@@ -23,9 +23,6 @@ type GetContactsType = {
     data: Array<ContactsType>;
 };
 
-// type PutContactsType = {
-//     data: ContactsType;
-// };
 class State {
     contacts: Array<ContactsType> = [];
     access = false;

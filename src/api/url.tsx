@@ -1,2 +1,2 @@
-export const accessUrl = 'http://localhost:3000/access';
-export const contactsUrl = 'http://localhost:3000/contacts';
+export const accessUrl = 'http://localhost:5000/access';
+export const contactsUrl = 'http://localhost:5000/contacts';
